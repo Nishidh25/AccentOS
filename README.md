@@ -20,6 +20,6 @@
 1.0 Initial Release
 
 
-## Credits 
+## Contributors
 1. Nishidh Shekhawat
 2. Ungeeked (Prashant) for teaching me how to make this Accent Colours mod 
