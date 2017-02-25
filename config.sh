@@ -2,7 +2,7 @@
 # Defines
 ##########################################################################################
 
-MODID=h2o2
+MODID=AccentOS
 AUTOMOUNT=true
 PROPFILE=false
 POSTFSDATA=false
