@@ -11,7 +11,7 @@
 3. Flash Only via Magisk Manager
 
 ## XDA Thread 
-1. Creating Soon 
+1. 
 2. You will find all zips over here on this thread 
 3. Latest OxygenOS will be updated regularly **on Magisk Only**
 4. Other OpenBeta/Community Builds will be on this thread 
@@ -20,6 +20,3 @@
 1.0 Initial Release
 
 
-## Contributors
-1. Nishidh Shekhawat
-2. Ungeeked (Prashant) for teaching me how to make this Accent Colours mod 
