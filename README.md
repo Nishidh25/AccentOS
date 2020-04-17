@@ -11,12 +11,10 @@
 3. Flash Only via Magisk Manager
 
 ## XDA Thread 
-1. 
+1. [XDA Thread](https://forum.xda-developers.com/oneplus-3/development/rom-accentos-v0-1-based-oos-4-0-3-t3557041)
 2. You will find all zips over here on this thread 
 3. Latest OxygenOS will be updated regularly **on Magisk Only**
 4. Other OpenBeta/Community Builds will be on this thread 
 
 ## Changelog 
 1.0 Initial Release
-
-
